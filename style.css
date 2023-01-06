@@ -1,0 +1,47 @@
+.head1{
+    background-color: rgb(33, 6, 58);
+    color: #fff;
+}
+.head2{
+    background-color: rgb(21, 21, 128);
+    color: #fff;
+}
+.navbar{
+    background-color: rgb(33, 33, 126);
+    color: #fff;
+}
+ .master-head{
+    background-color: rgb(69, 171, 211);
+}
+.cards i{
+    color: orangered;
+}
+.mission .content{
+    color: #fff;
+}
+.services{
+    background-color: rgb(241, 241, 241);
+}
+.call{
+    background-color: rgb(20, 20, 85);
+    color: #fff;
+}
+.testimonial{
+    background-color: rgb(241, 241, 241);
+}
+.foot{
+    background-color:rgb(33, 33, 126) ;
+    color: #fff;
+}
+.foot a{
+    text-decoration: none;
+    color: #fff;
+}
+.small{
+    background-color:rgb(40, 40, 165) ;
+    color: #fff;
+}
+.small a{
+    text-decoration: none;
+    color: #fff;
+}
